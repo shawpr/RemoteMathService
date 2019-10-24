@@ -1,0 +1,17 @@
+{
+  "name": "excersice1",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha ./tests/mathTest.js"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
